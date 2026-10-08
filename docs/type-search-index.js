@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.unicam.cs.asdl.es3","l":"Prenotazione"},{"p":"it.unicam.cs.asdl.es3","l":"TimeSlot"}];updateSearchResults();
